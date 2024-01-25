@@ -1,0 +1,4 @@
+name: statsPlugin
+version: '${project.version}'
+main: ivr.mc.plugin.statsplugin.StatsPlugin
+api-version: '1.20'
